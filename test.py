@@ -1,0 +1,1 @@
+job_input ="%20".join(input("enter job title: ").split(" "))
